@@ -13,7 +13,7 @@ public class SchoolManagementSystemApplication {
 	 */
 	public static void main(String[] args) {
 		SpringApplication.run(SchoolManagementSystemApplication.class, args);
-		System.out.println("Running...");
+		System.out.println("Ejecutando - puerto :8080 e ingrese credenciales...");
 	}
 
 }
